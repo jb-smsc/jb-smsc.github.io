@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "(copied from info on IACS homepage)\nThis Joint-Body is a collaboration between International Association of Cryospheric Sciences (IACS), the Mountain Research Initiative (MRI), and the WMO Global Cryosphere Watch (GCW), and counts with the support and participation from these institutions and their networks to realize the tasks under the respective Work Packages (WPs).\nThe proposal was prepared by a core team of scientists active in various fields of snow research, data and information. Participation in the joint body is open to everybody who is willing to actively contribute to one or several of the objectives listed in the proposal. Download the 2021 approved proposal here.\n\n\n\nTo join the JB, please contact one of the co-chairs.\nTo get access to the private repos on github, please contact @mitmat."
+  },
+  {
+    "objectID": "about.html#overview",
+    "href": "about.html#overview",
+    "title": "About",
+    "section": "",
+    "text": "(copied from info on IACS homepage)\nThis Joint-Body is a collaboration between International Association of Cryospheric Sciences (IACS), the Mountain Research Initiative (MRI), and the WMO Global Cryosphere Watch (GCW), and counts with the support and participation from these institutions and their networks to realize the tasks under the respective Work Packages (WPs).\nThe proposal was prepared by a core team of scientists active in various fields of snow research, data and information. Participation in the joint body is open to everybody who is willing to actively contribute to one or several of the objectives listed in the proposal. Download the 2021 approved proposal here."
+  },
+  {
+    "objectID": "about.html#joining",
+    "href": "about.html#joining",
+    "title": "About",
+    "section": "",
+    "text": "To join the JB, please contact one of the co-chairs.\nTo get access to the private repos on github, please contact @mitmat."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "JB-SMSC results on github",
+    "section": "",
+    "text": "A simple overview of the JB-SMSC results published on github."
+  },
+  {
+    "objectID": "index.html#inventory",
+    "href": "index.html#inventory",
+    "title": "JB-SMSC results on github",
+    "section": "Inventory",
+    "text": "Inventory\nThe inventory of snow in-situ metadata:\nhttps://jb-smsc.github.io/inventory"
+  },
+  {
+    "objectID": "index.html#gmba-swe-anomalies-2024",
+    "href": "index.html#gmba-swe-anomalies-2024",
+    "title": "JB-SMSC results on github",
+    "section": "GMBA SWE anomalies 2024",
+    "text": "GMBA SWE anomalies 2024\nAnomalies of SWE on the GMBA mountain polygons extracted from ERA5-Land:\nhttps://jb-smsc.github.io/gmba-swe"
+  },
+  {
+    "objectID": "index.html#gmba-snow-probability-anomalies-2024",
+    "href": "index.html#gmba-snow-probability-anomalies-2024",
+    "title": "JB-SMSC results on github",
+    "section": "GMBA Snow probability anomalies 2024",
+    "text": "GMBA Snow probability anomalies 2024\nAnomalies of snow probability on the GMBA mountain polygons extracted from MODIS:\nhttps://jb-smsc.github.io/gmba-snowprob"
+  }
+]
